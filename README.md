@@ -1,7 +1,9 @@
-This is a simple Hotel Reservation System built in Java for CodeAlpha Internship – Task 3.
-It helps users to book, cancel, and view hotel rooms using a console-based menu.
+🏨 Hotel Reservation System 
 
-The main goal of this project is to practice Java programming, OOP concepts, and File Handling in a real-world example.
+This is a simple Hotel Reservation System built in Java for the CodeAlpha Internship – Task 3.
+It allows users to book, cancel, and view hotel rooms using a console-based menu.
+
+The main goal of this project is to practice Java programming, Object-Oriented Programming (OOP), and File Handling in a real-world example.
 
 ✨ Features
 
@@ -21,4 +23,4 @@ The main goal of this project is to practice Java programming, OOP concepts, and
 📋 ArrayList – To store rooms and bookings.
 💾 File Handling – For saving and loading data.
 🔁 Loops & Conditions – For menus, availability checks, and validation.
-⌨️ Scanner Class – For user input through console.
+⌨️ Scanner Class – For taking user input through the console.
